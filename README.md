@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AhmadRoshid
-- 👀 I’m interested in Coding, Design & Data Analyst
-- 🌱 I’m currently learning java, Python, Kotlin, SAP.
-- 💞️ I’m looking to collaborate on IDK
+- 👀 I’m interested in Coding, Design & Data Science
+- 🌱 I’m currently learning java, Python, and R.
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me ahmadzeed.mulmed@gmail.com
 
 <!---
